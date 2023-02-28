@@ -1,4 +1,4 @@
-# stupid-ascii
+# stupid-stuff
 
 ## Usage
 ```sh
